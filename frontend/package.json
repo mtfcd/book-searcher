@@ -44,6 +44,7 @@
   "devDependencies": {
     "@babel/core": "^7.22.5",
     "@darkobits/vite-plugin-favicons": "^0.3.0",
+    "@tauri-apps/cli": "2.0.0-alpha.10",
     "@types/lodash": "^4.14.195",
     "@types/node": "^20.3.3",
     "@types/react": "^18.2.14",
